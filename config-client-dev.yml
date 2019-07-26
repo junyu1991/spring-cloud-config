@@ -1,6 +1,6 @@
 info:
   profile: dev
 dev:
-        test: hello
+        test: hello,world
 server:
         port: 8088
