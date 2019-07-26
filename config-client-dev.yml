@@ -2,3 +2,5 @@ info:
   profile: dev
 dev:
         test: hello
+server:
+        port: 8088
