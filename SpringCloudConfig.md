@@ -33,19 +33,19 @@ encrypt:
 ``` sh
 curl http://serverhost:port/encrypt -d plaintext
 ```
-测试解密：
+测试解密(获取明文)：
 ``` sh
 curl http://serverhost:port/decrypt -d encrypttext
 ```
 
 ## 4 配置文件配置加密串
 
-配置文件中配置加密串只需在值前加:{cipher} ，yml文件和properties文件区别在于，yml文件需要使用引号(单双皆可)将{cipher}和密文包起来。
-如：
+配置文件中配置加密串只需在值前加:{cipher} ，yml文件和properties文件区别在于，yml文件需要使用引号(单双皆可)将{cipher}和密文包起来。如：
+yml配置：
 ``` yml
 password: '${cipher}ciphertext'
 ```
-
+properties配置：
 ``` propertis
 password = ${cipher}ciphertext
 ```
