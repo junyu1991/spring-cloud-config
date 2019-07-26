@@ -4,7 +4,7 @@
 
 ``` sh
 keytool -genkeypair -alias config-server -keyalg RSA \ 
-  -dname "CN=zhaiyongchao, OU=company, O=organization, L=city, ST=province, C=china" \
+  -dname "CN=yj, OU=company, O=organization, L=city, ST=province, C=china" \
   -keypass 222222 \
   -keystore config-server.keystore \
   -storepass 111111 \
