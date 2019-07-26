@@ -1,6 +1,6 @@
 spring:
         datasource:
                 redis:
-                        url: mysql@test:172.18.3.28:1521/temp
+                        url: redis:127.0.0.1:6369
                         username: yj
                         password: "{cipher}AQCMf8LqQ3RhOO+06vIHclXM6PmFy0urpl+ePuKxPYOt0fEfSV+aabLBCl1VYCoQlsS9NbdvTDB6SGql8j5I5EM4MfMwHAvdH+7p++zTHsofTp1PXHORORlnDq3c6jdpGpK/ttbI36/Xv4pugXlXjp/z5iDn3f3+tZH4tv6R7laeKP+Is4inGjKPC2Z3LqSqtau2vdHB3DxxxGUBV3HbRznlRJmL5bsfcX7wV0W0at+5mV4D/LxTGfo1ctd18uTVHroS9nZef9L/LhyRLvLpiF3Fmx+A4Y0tAZEKGQVSFviuTotzKs8sbsqaGwDf0R2VUuIk26GpF6x9vUaHk1x3kbTSGOk3fOjNY+yAUMGS+ceKLq/wmkXSrxZeoAMveSFlt7U="
