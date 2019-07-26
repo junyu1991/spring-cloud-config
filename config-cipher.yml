@@ -1,3 +1,4 @@
 spring:
         datasource:
-                password: {cipher}omi7ccPWuqztQRQogqymeH3XXCSWGMwS5ifW8jXjQ9AOdhQFtOrk+BVSDHk7fJ4Z+Z6qdDvE59yLBiPEDSzDQC9RxgcVMj5jz82JJWBFZKO4PpLal2TSHUU1A1LcBvPOgjd0w2w+JmmUxlVWwzXCaLh6HNFaGvQxho5HimcuJNVu7WRXZvAvEBUwOidUj4m3V3gMhngDGQursiGfCLmDw4VWFVtvmv5fzCihF0XxZh8vOWiL0lrFXz5j4vnxTwzzkKdJYu3Mmnlb+KjfB8lCLaAB0O9lGADKo+TDQEPfXxkUVWXJFnD8d4IbUSCwWHF7PIYMoXa2x6d0y4ptthJUpw==
+                username: yj
+                password: '{cipher}omi7ccPWuqztQRQogqymeH3XXCSWGMwS5ifW8jXjQ9AOdhQFtOrk+BVSDHk7fJ4Z+Z6qdDvE59yLBiPEDSzDQC9RxgcVMj5jz82JJWBFZKO4PpLal2TSHUU1A1LcBvPOgjd0w2w+JmmUxlVWwzXCaLh6HNFaGvQxho5HimcuJNVu7WRXZvAvEBUwOidUj4m3V3gMhngDGQursiGfCLmDw4VWFVtvmv5fzCihF0XxZh8vOWiL0lrFXz5j4vnxTwzzkKdJYu3Mmnlb+KjfB8lCLaAB0O9lGADKo+TDQEPfXxkUVWXJFnD8d4IbUSCwWHF7PIYMoXa2x6d0y4ptthJUpw=='
