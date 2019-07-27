@@ -51,6 +51,7 @@ password = ${cipher}ciphertext
 ```
 
 ## 5 config client加载多个配置文件
+
 1. github或者svn中的配置文件名模式为：config client中的spring.application.name值 + *.yml，如：
 config-cipher.yml, config-cipher-dev.yml均可被config-cipher项目加载
 2. config client中的spring.cloud.profile和spring.cloud.label值需要按照需求配置，
